@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "C:\\dev\\engine\\bin-int\\Debug\\-x64\\engine\\Test.obj",
+            "outputs": [
+                "C:\\dev\\engine\\bin-int\\Debug\\-x64\\engine\\Test.cpp.obj.dt.module.json",
+                "C:\\dev\\engine\\bin-int\\Debug\\-x64\\engine\\Test.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}
